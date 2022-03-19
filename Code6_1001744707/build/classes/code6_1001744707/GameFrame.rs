@@ -1,2 +1,0 @@
-code6_1001744707.GameFrame
-code6_1001744707.GameFrame$EventHandler
