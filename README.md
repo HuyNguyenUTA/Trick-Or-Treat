@@ -2,7 +2,7 @@
 
 This is a JAVA project which uses Command Line Interface (CLI) to manipulate the program
 
-It's runned on Linux Virtual Machine
+It's run on Linux Virtual Machine
 
 Install JDK on Ubuntu: sudo apt install default-jdk
 
